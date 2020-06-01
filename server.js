@@ -8,6 +8,7 @@ require('dotenv').config();
 const routes = require('./routes/routes');
 
 const port = 5000 | process.env.PORT;
+app.use('/secure', routes);
 app.use('/', routes);
 
 app.use((req, res, next)=>{
