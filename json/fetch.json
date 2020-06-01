@@ -1,0 +1,81 @@
+[{
+        "id": 1,
+        "first_name": "Daven",
+        "last_name": "Swanborrow",
+        "email": "dswanborrow0@csmonitor.com",
+        "gender": "Male",
+        "ip_address": "191.184.240.165"
+    },
+    {
+        "id": 2,
+        "first_name": "Nial",
+        "last_name": "Ginman",
+        "email": "nginman1@ihg.com",
+        "gender": "Male",
+        "ip_address": "119.75.8.190"
+    },
+    {
+        "id": 3,
+        "first_name": "Valencia",
+        "last_name": "Heistermann",
+        "email": "vheistermann2@xing.com",
+        "gender": "Female",
+        "ip_address": "57.221.61.195"
+    },
+    {
+        "id": 4,
+        "first_name": "Kakalina",
+        "last_name": "Plait",
+        "email": "kplait3@shutterfly.com",
+        "gender": "Female",
+        "ip_address": "43.202.162.129"
+    },
+    {
+        "id": 5,
+        "first_name": "Reg",
+        "last_name": "Grichukhin",
+        "email": "rgrichukhin4@opensource.org",
+        "gender": "Male",
+        "ip_address": "88.248.82.105"
+    },
+    {
+        "id": 6,
+        "first_name": "Hali",
+        "last_name": "Loyd",
+        "email": "hloyd5@cloudflare.com",
+        "gender": "Female",
+        "ip_address": "144.31.184.92"
+    },
+    {
+        "id": 7,
+        "first_name": "Jeffie",
+        "last_name": "Daveridge",
+        "email": "jdaveridge6@umn.edu",
+        "gender": "Male",
+        "ip_address": "108.172.87.76"
+    },
+    {
+        "id": 8,
+        "first_name": "Griffin",
+        "last_name": "Sandford",
+        "email": "gsandford7@mysql.com",
+        "gender": "Male",
+        "ip_address": "201.85.175.251"
+    },
+    {
+        "id": 9,
+        "first_name": "Caesar",
+        "last_name": "Linham",
+        "email": "clinham8@google.com.au",
+        "gender": "Male",
+        "ip_address": "66.114.39.91"
+    },
+    {
+        "id": 10,
+        "first_name": "Bobbye",
+        "last_name": "Wards",
+        "email": "bwards9@amazon.de",
+        "gender": "Female",
+        "ip_address": "54.231.251.211"
+    }
+]

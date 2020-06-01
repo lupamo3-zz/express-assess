@@ -1,0 +1,24 @@
+{
+  "name": "express-json",
+  "version": "1.0.0",
+  "description": "Fetch from Json Data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lupamo3/express-assess.git"
+  },
+  "author": "Norbert Anjichi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lupamo3/express-assess/issues"
+  },
+  "homepage": "https://github.com/lupamo3/express-assess#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
