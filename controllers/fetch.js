@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 var json_obj = require('../json/fetch.json');
 
 
